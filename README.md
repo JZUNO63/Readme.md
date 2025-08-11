@@ -1,4 +1,3 @@
-# JZUNO63.github.io
 # 👋 Hola, soy Jose Luis 
 
 💻 Desarrollador de blah blah blah  
